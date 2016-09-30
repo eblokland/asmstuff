@@ -1,5 +1,5 @@
 .text
-inputvar: .asciz "%d"
+inputvar: .asciz "%lld"
 outputstring: .asciz "%d \n"
 outputstring2: .asciz "%d aaaaaaaaaaaaaaaaaaaaaAAAAWHYYY\n"
 newline: .asciz "\n"
