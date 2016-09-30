@@ -1,7 +1,6 @@
 .text
 inputvar: .asciz "%lld"
-outputstring: .asciz "%d \n"
-outputstring2: .asciz "%d aaaaaaaaaaaaaaaaaaaaaAAAAWHYYY\n"
+outputstring: .asciz "%lld \n"
 newline: .asciz "\n"
 assign: .asciz "Assignment 1\newblokland, 4475798\ndbalmashnov, 4542294\n"
 .global main
